@@ -26,6 +26,10 @@ body{
     border-radius: 10px;
 
 }
+/*-----------------------------Donate Today----------------------------*/
+.today{
+    display: flex;
+}
 /*-----------------------------Our Donate Plan----------------------------*/
 .plan{
     display: flex;
