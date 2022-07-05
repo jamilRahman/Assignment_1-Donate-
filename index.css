@@ -24,7 +24,18 @@ body{
     background-color: #fd0000;
     padding: 10px;
     border-radius: 10px;
+
 }
+/*-----------------------------Donation----------------------------*/
+.donation{
+    display: flex;
+}
+/*-----------------------------They Need Us to Survibe----------------------------*/
+.survibe{
+    display: flex;
+}
+
+
 /*-----------------------------Get My Updates----------------------------*/
 .bg{
     background-color: burlywood;
