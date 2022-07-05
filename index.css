@@ -1,9 +1,44 @@
 body{
     margin: 0px;
 }
+/*--------------This is head Section---------*/
 .head{
-    background-image: url("image/donation5.jpg");
+    
+    background-image: url("image/img2.jpg");
+    opacity: 0.8;
     width: 100%;
     height: 500px;
+    background-image: no-repeat;
+    margin-top: -20px;
+    
+}
+.content{
+    margin-left: 478px;
+    padding-top: 173px;
+}
+.content h1{
+    font-size: 45px;
+}
+.button{
+    text-decoration: none;
+    background-color: #fd0000;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/*-----------------------------Footer Section----------------------------*/
+.background{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+.background h1{
+    color: chocolate;
+}
+.background p{
+    color: white;
+}
+.position{
+    text-align: center;
     
 }
