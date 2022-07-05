@@ -25,6 +25,12 @@ body{
     padding: 10px;
     border-radius: 10px;
 }
+/*-----------------------------Get My Updates----------------------------*/
+.bg{
+    background-color: burlywood;
+    width: 50%;
+    height: 100px;
+}
 
 /*-----------------------------Footer Section----------------------------*/
 .background{
