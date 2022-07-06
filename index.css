@@ -67,12 +67,29 @@ body{
 .odp{
     text-align: center;
 }
-.donate{
+.donate1{
     margin-left: 113px;
     border-style: none;
     background-color: #cfc8c8;
     height: 230px;
     width: 280px;
+    padding-top: 51px;
+}
+.donate2{
+    margin-left: 113px;
+    border-style: none;
+    background-color: #cfc8c8;
+    height: 230px;
+    width: 280px;
+    padding-top: 51px;
+}
+.donate3{
+    margin-left: 113px;
+    border-style: none;
+    background-color: #cfc8c8;
+    height: 230px;
+    width: 280px;
+    padding-top: 51px;
 }
 /*-----------------------------Donation----------------------------*/
 .donation{
