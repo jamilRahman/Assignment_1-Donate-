@@ -55,7 +55,7 @@ body{
 }
 .button1{
     text-decoration: none;
-    background-color: #fd0000;
+    background-color: #d86f3f;
     padding: 10px;
     border-radius: 10px;
     margin-left: 612px;
@@ -70,7 +70,7 @@ body{
 .donate1{
     margin-left: 113px;
     border-style: none;
-    background-color: #cfc8c8;
+    background-color: #7fbbb877;
     height: 230px;
     width: 280px;
     padding-top: 51px;
@@ -78,7 +78,7 @@ body{
 .donate2{
     margin-left: 113px;
     border-style: none;
-    background-color: #cfc8c8;
+    background-color: #8f53535d;
     height: 230px;
     width: 280px;
     padding-top: 51px;
@@ -86,14 +86,24 @@ body{
 .donate3{
     margin-left: 113px;
     border-style: none;
-    background-color: #cfc8c8;
+    background-color: #ce915781;
     height: 230px;
     width: 280px;
     padding-top: 51px;
 }
+.position1{
+    padding-left: 15px;
+}
 /*-----------------------------Donation----------------------------*/
 .donation{
     display: flex;
+}
+.donat{
+    margin-left: 118px;
+}
+.donatimg{
+    height: 300px;
+    margin-right: 196px;
 }
 /*-----------------------------They Need Us to Survibe----------------------------*/
 .survibe{
