@@ -135,7 +135,7 @@ body{
     margin-left: 215px;
 }
 .im1{
-    border: 5px solid rgb(136, 168, 173);
+    border: 4px solid #ff5959;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 315px;
     height: 200px;
