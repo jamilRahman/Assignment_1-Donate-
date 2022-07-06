@@ -41,7 +41,11 @@ body{
 }
 .tod{
     text-align: center;
+    
 
+}
+.tod1{
+    font-size: 35px;
 }
 .donatetoday{
     border-style: none;
@@ -80,6 +84,10 @@ body{
     text-align: center;
     width: 859px;
     margin-left: 193px;
+    
+}
+.odp1{
+    font-size: 35px;
 }
 .donate1{
     
@@ -137,7 +145,9 @@ body{
 .pg{
     text-align: center;
 }
-
+.pg1{
+    font-size: 35px;
+}
 /*-----------------------------Donation----------------------------*/
 .donation{
     display: flex;
@@ -145,6 +155,9 @@ body{
 .donat{
     margin-left: 118px;
     
+}
+.donat1{
+    font-size: 35px;
 }
 .donatimg{
     height: 300px;
@@ -172,7 +185,12 @@ body{
 .surv{
     margin-left: 163px;
 }
-
+.surv1{
+    font-size: 35px;
+}
+.surv2{
+    width: 331px;
+}
 .button3{
     text-decoration: none;
     background-color: #ff5959;
@@ -193,6 +211,10 @@ body{
 }
 .update{
     text-align: center;
+    
+}
+.update1{
+    font-size: 35px;
 }
 .form__email {
     padding: 14px 26px;
