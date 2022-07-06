@@ -29,6 +29,36 @@ body{
 /*-----------------------------Donate Today----------------------------*/
 .today{
     display: flex;
+    margin-left: 270px;
+}
+.tod{
+    text-align: center;
+
+}
+.donatetoday{
+    border-style: none;
+    margin-right: 41px;
+    padding: 6px 28px 5px 24px;
+    border-color: #836f62;
+    background-color: #efefef;
+}
+.donateborder{
+    border-style: solid;
+    margin-right: 41px;
+    padding: 6px 28px 5px 24px;
+    border-color: #836f62;
+    background-color: #b66f40;
+    border-radius: 5px;
+}
+.other{
+    text-align: center;
+}
+.button1{
+    text-decoration: none;
+    background-color: #fd0000;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 612px;
 }
 /*-----------------------------Our Donate Plan----------------------------*/
 .plan{
