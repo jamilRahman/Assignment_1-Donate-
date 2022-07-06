@@ -113,10 +113,12 @@ body{
     display: flex;
     margin-top: 40px;
     margin-left: 60px;
+    
+
 }
 .photo img{
     margin-left: 50px;
-
+    
 }
 .gallerytext{
     width: 70%;
@@ -127,6 +129,7 @@ body{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     width: 315px;
     height: 200px;
+    border-radius: 23px;
 }
 
 .pg{
