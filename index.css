@@ -64,6 +64,16 @@ body{
 .plan{
     display: flex;
 }
+.odp{
+    text-align: center;
+}
+.donate{
+    margin-left: 113px;
+    border-style: none;
+    background-color: #cfc8c8;
+    height: 230px;
+    width: 280px;
+}
 /*-----------------------------Donation----------------------------*/
 .donation{
     display: flex;
