@@ -78,6 +78,8 @@ body{
 }
 .odp{
     text-align: center;
+    width: 859px;
+    margin-left: 193px;
 }
 .donate1{
     
@@ -187,7 +189,7 @@ body{
     margin-left: 315px;
     margin: 41px 10px 10px 194px;
     padding: 10px;
-    padding-left: 145px;
+    padding-left: 246px;
 }
 .update{
     text-align: center;
@@ -231,5 +233,6 @@ body{
 }
 .position{
     text-align: center;
+    padding-top: 30px;
     
 }
